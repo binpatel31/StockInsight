@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.org/ultraultimated/StockInsight.svg?branch=master)](https://travis-ci.org/ultraultimated/StockInsight)
-[![GitHub issues](https://img.shields.io/github/issues/ultraultimated/StockInsight)](https://github.com/ultraultimated/StockInsight/issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ultraultimated/StockInsight)
-![GitHub contributors](https://img.shields.io/github/contributors/ultraultimated/StockInsight)
 [![DOI](https://zenodo.org/badge/291098939.svg)](https://zenodo.org/badge/latestdoi/291098939)
 
 # StockInsight
